@@ -7,7 +7,7 @@
 
 - 🌱 Linguagem em especialização **Ruby on rails**
 
-- 👨‍💻 Meus projetos estão neste repositório do GitHub [https://github.com/Thurmota/Thurmota](https://github.com/Thurmota/Thurmota)
+- 👨‍💻 Meus projetos estão neste repositório do GitHub [https://github.com/Thurmota/Thurmota](https://github.com/Thurmota?tab=repositories)
 
 - 📫 Como me contatar **arthurpachecomota@gmail.com**
 
