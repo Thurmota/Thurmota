@@ -13,8 +13,6 @@
 
 - ⚡ Fato divertido **Sempre faço as pessoas rirem**
 
-- 👀 Estou interessado em uma **oportunidade**, tenho tempo integral e **disposição para aprender**
-
 - 💞️ Trabalho muito bem em **equipe** e tenho familiaridade com **metodologias ágeis**
 
 SOFT SKILLS
