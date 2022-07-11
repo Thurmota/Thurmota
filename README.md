@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋,Me chamo Arthur Pacheco.</h1>
-<h3 align="center">Empresário na área de marketing migrando de área em busca de novos desafios</h3>
+<h3 align="center">DEV BACK-END</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thurmota&label=Profile%20views&color=0e75b6&style=flat" alt="thurmota" /> </p>
 
