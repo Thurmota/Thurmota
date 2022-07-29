@@ -29,8 +29,6 @@ SOFT SKILLS
 <a href="https://instagram.com/@oarthurpacheco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@oarthurpacheco" height="30" width="40" /></a>
 </p>
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thurmota&show_icons=true&locale=en&layout=compact" alt="thurmota" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
