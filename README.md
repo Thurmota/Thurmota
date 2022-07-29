@@ -38,4 +38,4 @@ SOFT SKILLS
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thurmota&show_icons=true&locale=en" alt="thurmota" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thurmota&" alt="thurmota" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thurmota&" alt="thurmota" /></p>
