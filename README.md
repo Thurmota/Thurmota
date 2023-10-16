@@ -5,8 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thurmota" alt="thurmota" /></a> </p>
 
-- 🌱 Linguagem em especialização **Ruby on rails**
-
 - 👨‍💻 Meus projetos estão neste repositório do GitHub [https://github.com/Thurmota/Thurmota](https://github.com/Thurmota?tab=repositories)
 
 - 📫 Como me contatar **arthurpachecomota@gmail.com**
